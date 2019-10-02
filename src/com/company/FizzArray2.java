@@ -2,22 +2,15 @@ package com.company;
 
 public class FizzArray2 {
 
-    public static int fizzarray() {
+    public static void String FizzArray2() {
 
-        public int[] fizzArray ( int n){
-            int[] result = new int[n];
+        public String[] FizzArray2; ( int n)
+            String[] strArray = new String[n];
             for (int i = 0; i < n; i++)
-            result[i] = i; 5
+            result[i] = i;
             return result;
-        }
+
     }
 }
 
-snacks[chips, dip, cookies, 4G]
-
-
-numbers[2, 5, 23, 16]
-
-0
-0, 1, 2 3
 
