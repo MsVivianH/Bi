@@ -39,7 +39,6 @@ public class BigDiff {
             System.out.println("the difference between the highest and lowest number is " + (max - min));
         }
 
-
 //        return num_variable;
     }
 }
